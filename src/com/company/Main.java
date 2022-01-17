@@ -38,7 +38,7 @@ try{
 
 
         }
-        System.out.println("inserted array elements");
+        System.out.println("inserted array elements to the list");
     }
 
 
